@@ -1,4 +1,4 @@
-package by.epam.hw04.one_dim_arrays_part01;
+package by.epam.hw04.one_dim_array_part01;
 
 /*9. Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы*/
 
